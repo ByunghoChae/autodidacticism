@@ -1,1 +1,3 @@
-# autodidacticism
+## "by myself"
+
+* **Deep learning**
